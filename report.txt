@@ -1,0 +1,18 @@
+Name: Christopher Castaneda
+Lab Name: cv-webpage-ccdougcc
+Date Assigned: 09/08/21
+Date Completed: 09/19/21
+Status: Completed
+
+Outstanding Issues:
+Given that it was my first ever time making an HTML file, the code wasn't horrible but could have definitely been cleaner
+
+Major Impediments:
+N/A
+
+Feedback Comments:
+I enjoyed the workflow of having fellow classmates review our git commits and make 
+comments of their own. Given that one of Github's outstanding features is its ability
+to work with others I wish we could've done one or two more labs where we learn how
+to code alongside others since I've been told this is common in at home tech jobs.
+
